@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/elho", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/elho-schaufel-s-green-basics-living-schwarz-aus-recycling-kunststoff-elho-5725874-1.jpg":"\u002Fassets\u002Fimages\u002Felho-schaufel-s-green-basics-living-schwarz-aus-recycling-kunststoff-elho-5725874-1.webp"}}],fetch:{},mutations:void 0});
