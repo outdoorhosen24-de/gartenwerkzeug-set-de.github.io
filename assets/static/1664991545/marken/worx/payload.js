@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/worx", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/worx-multi-brush-wg441e-9-20-v-worx-6868764-1.jpg":"\u002Fassets\u002Fimages\u002Fworx-multi-brush-wg441e-9-20-v-worx-6868764-1.webp"}}],fetch:{},mutations:void 0});
