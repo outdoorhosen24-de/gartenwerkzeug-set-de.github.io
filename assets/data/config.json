@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "gartenwerkzeug-set.de",
+    "hostname": "https://www.gartenwerkzeug-set.de/",
+    "email": "gartenwerkzeug-set.desurrealnetworks.io",
+    "organization": "gartenwerkzeug-set.de",
+    "logoText": "Gartenwerkzeug-set.de",
+    "title": "Gartenwerkzeug",
+    "subline": "Der Online Shop f\u00fcr Gartenwerkzeug",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "6268643",
+        "9779950",
+        "2444859",
+        "9235664",
+        "9239047",
+        "1640143"
+    ],
+    "winnerProducts": [
+        "5910963",
+        "1014505",
+        "1406933"
+    ],
+    "featuredCategories": [
+        "\u00c4xte & Gartens\u00e4gen",
+        "Gartenhandger\u00e4te",
+        "Streuwagen & Walzen",
+        "Gartenscheren & Baumscheren",
+        "Besen & Rechen",
+        "Besen & Rechen"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenwerkzeug",
-        "featureText": "Your featured text goes here",
+        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Wir f\u00fchren eine gro\u00dfe Auswahl an Gartenwerkzeugen, Pflanzen und Zubeh\u00f6r. Sie finden bei uns alles, vom Rasenm\u00e4her bis zum Gartenschlauch. Wir beraten Sie gerne bei der Auswahl der richtigen Produkte f\u00fcr Ihren Garten.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Gartenwerkzeug - Alles f\u00fcr Ihren Garten!",
+            "metaDescription": "Gartenwerkzeug f\u00fcr diejenigen, die ihren Garten selbst in Schuss halten wollen. Alles, was Sie f\u00fcr die Pflege Ihres Gartens ben\u00f6tigen.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Gartenwerkzeug: Alles, was Sie f\u00fcr Ihren Garten brauchen",
+                    "text": "Gartenwerkzeug ist unerl\u00e4sslich, wenn Sie Ihren Garten selbst pflegen m\u00f6chten. Damit k\u00f6nnen Sie Unkraut j\u00e4ten, Pflanzen pflanzen und gie\u00dfen, Hecken schneiden und vieles mehr. Welches Gartenwerkzeug Sie ben\u00f6tigen, h\u00e4ngt nat\u00fcrlich von der Gr\u00f6\u00dfe und dem Zustand Ihres Gartens ab.\n\nZu den Grundausstattungen geh\u00f6ren eine Harke, eine Gie\u00dfkanne, eine Schere und eine Schaufel. Mit diesen Werkzeugen k\u00f6nnen Sie die meisten Arbeiten im Garten erledigen. Nat\u00fcrlich gibt es auch spezialisiertere Werkzeuge, die Sie je nach Bedarf kaufen k\u00f6nnen.\n\nEine Harke ist ideal zum J\u00e4ten und Umgraben. Sie k\u00f6nnen damit auch Sand und Kies verteilen. Eine Gie\u00dfkanne ist unerl\u00e4sslich, um Ihre Pflanzen zu gie\u00dfen. Achten Sie darauf, eine Gie\u00dfkanne zu kaufen, die aus robustem Kunststoff ist, damit sie lange h\u00e4lt.\n\nEine Schere ist n\u00fctzlich, um Hecken zu schneiden und Blumen zu snoeien. Kaufen Sie am besten eine Schere mit langem Griff, damit Sie auch an die h\u00f6heren Zweige herankommen. Eine Schaufel ist ideal zum Ausheben von L\u00f6chern f\u00fcr neue Pflanzen. Achten Sie darauf, eine Schaufel zu kaufen, die aus robustem Metall ist.\n\nWenn Sie Ihren Garten selbst pflegen m\u00f6chten, ist eine gute Auswahl an Gartenwerkzeug unerl\u00e4sslich. Mit den richtigen"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenwerkzeug-Shop: Alles f\u00fcr Ihren Garten!",
+            "metaDescription": "Gartenwerkzeug-Shop: Hier findest du alles, was du f\u00fcr deinen Garten brauchst - von A wie Astschere bis Z wie Zwergmispel. Schnelle Lieferung, g\u00fcnstige Preise!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Gartenwerkzeug-Hersteller",
+            "metaDescription": "Gartenwerkzeug vom Hersteller. Werkzeug f\u00fcr die Gartenarbeit.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Gartenwerkzeug f\u00fcr die perfekte Gartenarbeit",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Gartenwerkzeug f\u00fcr die $KATEGORIE.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Gartenwerkzeug f\u00fcr die perfekte Gartenarbeit",
+        "defaultMetaDescription": "Gartenwerkzeug f\u00fcr jeden Zweck: $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Gartenwerkzeug. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Gartenwerkzeugen, die Ihnen dabei helfen, Ihren Garten in einen Ort der Sch\u00f6nheit zu verwandeln.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Gartenwerkzeug",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Gartenwerkzeug Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Gartenwerkzeug Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
