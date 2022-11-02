@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "gartenwerkzeug-set.de",
     "hostname": "https://www.gartenwerkzeug-set.de/",
     "email": "gartenwerkzeug-set.desurrealnetworks.io",
     "organization": "gartenwerkzeug-set.de",
     "logoText": "Gartenwerkzeug-set.de",
     "title": "Gartenwerkzeug",
-    "subline": "Der Online Shop f\u00fcr Gartenwerkzeug",
+    "subline": "Der Online Shop für Gartenwerkzeug",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,8 +28,8 @@
         "1406933"
     ],
     "featuredCategories": [
-        "\u00c4xte & Gartens\u00e4gen",
-        "Gartenhandger\u00e4te",
+        "Äxte & Gartensägen",
+        "Gartenhandgeräte",
         "Streuwagen & Walzen",
         "Gartenscheren & Baumscheren",
         "Besen & Rechen",
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenwerkzeug",
-        "featureText": "In unserem Shop finden Sie alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Wir f\u00fchren eine gro\u00dfe Auswahl an Gartenwerkzeugen, Pflanzen und Zubeh\u00f6r. Sie finden bei uns alles, vom Rasenm\u00e4her bis zum Gartenschlauch. Wir beraten Sie gerne bei der Auswahl der richtigen Produkte f\u00fcr Ihren Garten.",
+        "featureText": "In unserem Shop finden Sie alles, was Sie für Ihren Garten benötigen. Wir führen eine große Auswahl an Gartenwerkzeugen, Pflanzen und Zubehör. Sie finden bei uns alles, vom Rasenmäher bis zum Gartenschlauch. Wir beraten Sie gerne bei der Auswahl der richtigen Produkte für Ihren Garten.",
         "index": {
-            "title": "Gartenwerkzeug - Alles f\u00fcr Ihren Garten!",
-            "metaDescription": "Gartenwerkzeug f\u00fcr diejenigen, die ihren Garten selbst in Schuss halten wollen. Alles, was Sie f\u00fcr die Pflege Ihres Gartens ben\u00f6tigen.",
+            "title": "Gartenwerkzeug - Alles für Ihren Garten!",
+            "metaDescription": "Gartenwerkzeug für diejenigen, die ihren Garten selbst in Schuss halten wollen. Alles, was Sie für die Pflege Ihres Gartens benötigen.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Gartenwerkzeug: Alles, was Sie f\u00fcr Ihren Garten brauchen",
-                    "text": "Gartenwerkzeug ist unerl\u00e4sslich, wenn Sie Ihren Garten selbst pflegen m\u00f6chten. Damit k\u00f6nnen Sie Unkraut j\u00e4ten, Pflanzen pflanzen und gie\u00dfen, Hecken schneiden und vieles mehr. Welches Gartenwerkzeug Sie ben\u00f6tigen, h\u00e4ngt nat\u00fcrlich von der Gr\u00f6\u00dfe und dem Zustand Ihres Gartens ab.\n\nZu den Grundausstattungen geh\u00f6ren eine Harke, eine Gie\u00dfkanne, eine Schere und eine Schaufel. Mit diesen Werkzeugen k\u00f6nnen Sie die meisten Arbeiten im Garten erledigen. Nat\u00fcrlich gibt es auch spezialisiertere Werkzeuge, die Sie je nach Bedarf kaufen k\u00f6nnen.\n\nEine Harke ist ideal zum J\u00e4ten und Umgraben. Sie k\u00f6nnen damit auch Sand und Kies verteilen. Eine Gie\u00dfkanne ist unerl\u00e4sslich, um Ihre Pflanzen zu gie\u00dfen. Achten Sie darauf, eine Gie\u00dfkanne zu kaufen, die aus robustem Kunststoff ist, damit sie lange h\u00e4lt.\n\nEine Schere ist n\u00fctzlich, um Hecken zu schneiden und Blumen zu snoeien. Kaufen Sie am besten eine Schere mit langem Griff, damit Sie auch an die h\u00f6heren Zweige herankommen. Eine Schaufel ist ideal zum Ausheben von L\u00f6chern f\u00fcr neue Pflanzen. Achten Sie darauf, eine Schaufel zu kaufen, die aus robustem Metall ist.\n\nWenn Sie Ihren Garten selbst pflegen m\u00f6chten, ist eine gute Auswahl an Gartenwerkzeug unerl\u00e4sslich. Mit den richtigen"
+                    "title": "Gartenwerkzeug: Alles, was Sie für Ihren Garten brauchen",
+                    "text": "Gartenwerkzeug ist unerlässlich, wenn Sie Ihren Garten selbst pflegen möchten. Damit können Sie Unkraut jäten, Pflanzen pflanzen und gießen, Hecken schneiden und vieles mehr. Welches Gartenwerkzeug Sie benötigen, hängt natürlich von der Größe und dem Zustand Ihres Gartens ab.\n\nZu den Grundausstattungen gehören eine Harke, eine Gießkanne, eine Schere und eine Schaufel. Mit diesen Werkzeugen können Sie die meisten Arbeiten im Garten erledigen. Natürlich gibt es auch spezialisiertere Werkzeuge, die Sie je nach Bedarf kaufen können.\n\nEine Harke ist ideal zum Jäten und Umgraben. Sie können damit auch Sand und Kies verteilen. Eine Gießkanne ist unerlässlich, um Ihre Pflanzen zu gießen. Achten Sie darauf, eine Gießkanne zu kaufen, die aus robustem Kunststoff ist, damit sie lange hält.\n\nEine Schere ist nützlich, um Hecken zu schneiden und Blumen zu snoeien. Kaufen Sie am besten eine Schere mit langem Griff, damit Sie auch an die höheren Zweige herankommen. Eine Schaufel ist ideal zum Ausheben von Löchern für neue Pflanzen. Achten Sie darauf, eine Schaufel zu kaufen, die aus robustem Metall ist.\n\nWenn Sie Ihren Garten selbst pflegen möchten, ist eine gute Auswahl an Gartenwerkzeug unerlässlich. Mit den richtigen"
                 }
             ]
         },
         "shop": {
-            "title": "Gartenwerkzeug-Shop: Alles f\u00fcr Ihren Garten!",
-            "metaDescription": "Gartenwerkzeug-Shop: Hier findest du alles, was du f\u00fcr deinen Garten brauchst - von A wie Astschere bis Z wie Zwergmispel. Schnelle Lieferung, g\u00fcnstige Preise!",
+            "title": "Gartenwerkzeug-Shop: Alles für Ihren Garten!",
+            "metaDescription": "Gartenwerkzeug-Shop: Hier findest du alles, was du für deinen Garten brauchst - von A wie Astschere bis Z wie Zwergmispel. Schnelle Lieferung, günstige Preise!",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Gartenwerkzeug-Hersteller",
-            "metaDescription": "Gartenwerkzeug vom Hersteller. Werkzeug f\u00fcr die Gartenarbeit.",
+            "metaDescription": "Gartenwerkzeug vom Hersteller. Werkzeug für die Gartenarbeit.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Gartenwerkzeug f\u00fcr die perfekte Gartenarbeit",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Gartenwerkzeug f\u00fcr die $KATEGORIE.",
+        "defaultTitle": "$PRODUKT: Gartenwerkzeug für die perfekte Gartenarbeit",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Gartenwerkzeug für die $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Gartenwerkzeug f\u00fcr die perfekte Gartenarbeit",
-        "defaultMetaDescription": "Gartenwerkzeug f\u00fcr jeden Zweck: $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultTitle": "$KATEGORIE: Gartenwerkzeug für die perfekte Gartenarbeit",
+        "defaultMetaDescription": "Gartenwerkzeug für jeden Zweck: $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Gartenwerkzeug. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Gartenwerkzeugen, die Ihnen dabei helfen, Ihren Garten in einen Ort der Sch\u00f6nheit zu verwandeln.",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Gartenwerkzeug. Wir bieten eine große Auswahl an hochwertigen Gartenwerkzeugen, die Ihnen dabei helfen, Ihren Garten in einen Ort der Schönheit zu verwandeln.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
