@@ -51,12 +51,15 @@
             "title": "Gartenwerkzeug - Alles für Ihren Garten!",
             "metaDescription": "Gartenwerkzeug für diejenigen, die ihren Garten selbst in Schuss halten wollen. Alles, was Sie für die Pflege Ihres Gartens benötigen.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Gartenwerkzeug: Alles, was Sie für Ihren Garten brauchen",
-                    "text": "Gartenwerkzeug ist unerlässlich, wenn Sie Ihren Garten selbst pflegen möchten. Damit können Sie Unkraut jäten, Pflanzen pflanzen und gießen, Hecken schneiden und vieles mehr. Welches Gartenwerkzeug Sie benötigen, hängt natürlich von der Größe und dem Zustand Ihres Gartens ab.\n\nZu den Grundausstattungen gehören eine Harke, eine Gießkanne, eine Schere und eine Schaufel. Mit diesen Werkzeugen können Sie die meisten Arbeiten im Garten erledigen. Natürlich gibt es auch spezialisiertere Werkzeuge, die Sie je nach Bedarf kaufen können.\n\nEine Harke ist ideal zum Jäten und Umgraben. Sie können damit auch Sand und Kies verteilen. Eine Gießkanne ist unerlässlich, um Ihre Pflanzen zu gießen. Achten Sie darauf, eine Gießkanne zu kaufen, die aus robustem Kunststoff ist, damit sie lange hält.\n\nEine Schere ist nützlich, um Hecken zu schneiden und Blumen zu snoeien. Kaufen Sie am besten eine Schere mit langem Griff, damit Sie auch an die höheren Zweige herankommen. Eine Schaufel ist ideal zum Ausheben von Löchern für neue Pflanzen. Achten Sie darauf, eine Schaufel zu kaufen, die aus robustem Metall ist.\n\nWenn Sie Ihren Garten selbst pflegen möchten, ist eine gute Auswahl an Gartenwerkzeug unerlässlich. Mit den richtigen"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Gartenwerkzeug: Alles, was Sie für Ihren Garten brauchen",
+                        "text": "Gartenwerkzeug ist unerlässlich, wenn Sie Ihren Garten selbst pflegen möchten. Damit können Sie Unkraut jäten, Pflanzen pflanzen und gießen, Hecken schneiden und vieles mehr. Welches Gartenwerkzeug Sie benötigen, hängt natürlich von der Größe und dem Zustand Ihres Gartens ab.\n\nZu den Grundausstattungen gehören eine Harke, eine Gießkanne, eine Schere und eine Schaufel. Mit diesen Werkzeugen können Sie die meisten Arbeiten im Garten erledigen. Natürlich gibt es auch spezialisiertere Werkzeuge, die Sie je nach Bedarf kaufen können.\n\nEine Harke ist ideal zum Jäten und Umgraben. Sie können damit auch Sand und Kies verteilen. Eine Gießkanne ist unerlässlich, um Ihre Pflanzen zu gießen. Achten Sie darauf, eine Gießkanne zu kaufen, die aus robustem Kunststoff ist, damit sie lange hält.\n\nEine Schere ist nützlich, um Hecken zu schneiden und Blumen zu snoeien. Kaufen Sie am besten eine Schere mit langem Griff, damit Sie auch an die höheren Zweige herankommen. Eine Schaufel ist ideal zum Ausheben von Löchern für neue Pflanzen. Achten Sie darauf, eine Schaufel zu kaufen, die aus robustem Metall ist.\n\nWenn Sie Ihren Garten selbst pflegen möchten, ist eine gute Auswahl an Gartenwerkzeug unerlässlich. Mit den richtigen"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Gartenwerkzeug-Shop: Alles für Ihren Garten!",
