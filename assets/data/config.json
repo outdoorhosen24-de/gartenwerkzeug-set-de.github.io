@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "gartenwerkzeug-set.de",
     "hostname": "https://www.gartenwerkzeug-set.de/",
     "email": "gartenwerkzeug-set.de@surrealnetworks.io",
     "organization": "gartenwerkzeug-set.de",
     "logoText": "Gartenwerkzeug-set.de",
     "title": "Gartenwerkzeug",
-    "subline": "Der Online Shop für Gartenwerkzeug",
+    "subline": "Der Online Shop Gartenwerkzeug",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Gartenwerkzeug",
-        "featureText": "In unserem Shop finden Sie alles, was Sie für Ihren Garten benötigen. Wir führen eine große Auswahl an Gartenwerkzeugen, Pflanzen und Zubehör. Sie finden bei uns alles, vom Rasenmäher bis zum Gartenschlauch. Wir beraten Sie gerne bei der Auswahl der richtigen Produkte für Ihren Garten.",
+        "featureText": "Willkommen in unserem Shop! Sie möchten ihre Gartenarbeit auf das nächste Level heben, es fehlt aber noch das ein oder andere Werkzeug? Dann sind Sie hier genau richtig! Wir bieten Ihnen ein breites Sortiment qualitativ hochwertiger Produkte. Für eine möglichst große Freude bei der Gartenarbeit setzen wir auf Markenprodukte wie z.B. Bosch, Fiskars, Gardena uvm. Zu finden sind unsere Produkte einfach über entsprechende Kategorien oder über eine Auflistung all unserer Hersteller. Überzeugen Sie sich von unserem umfangreichen Angebot.",
         "index": {
-            "title": "Gartenwerkzeug - Alles für Ihren Garten!",
-            "metaDescription": "Gartenwerkzeug für diejenigen, die ihren Garten selbst in Schuss halten wollen. Alles, was Sie für die Pflege Ihres Gartens benötigen.",
+            "title": "Gartenwerkzeug - günstig online kaufen",
+            "metaDescription": "Riesige Auswahl hochwertiger Gartenwerkzeuge für jeden Anwendungsbereich: Besen & Rechen, Spaten & Schaufeln, Äxte & Sägen sowie viele weitere Gartenhandgeräte ",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Gartenwerkzeug-Shop: Alles für Ihren Garten!",
-            "metaDescription": "Gartenwerkzeug-Shop: Hier findest du alles, was du für deinen Garten brauchst - von A wie Astschere bis Z wie Zwergmispel. Schnelle Lieferung, günstige Preise!",
+            "title": "Online Shop für Gartenwerkzeug ",
+            "metaDescription": "Kaufen Sie Gartenwerkzeug von Gardena, Einhell, Fiskars und Co. | Einfach online bestellen | Faire Preise & schnelle Lieferung.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Gartenwerkzeug-Hersteller",
-            "metaDescription": "Gartenwerkzeug vom Hersteller. Werkzeug für die Gartenarbeit.",
+            "title": "Gartenwerkzeug von bekannten Herstellern ",
+            "metaDescription": "Kaufen Sie Gartenwerkzeug von Herstellern wie: Gardena, Fiskars, Einhell, Felco, Lux, Bosch uvm. | Überzeugen Sie sich von unserem umfangreichen Sortiment!",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Gartenwerkzeug für die perfekte Gartenarbeit",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist das ideale Gartenwerkzeug für die $KATEGORIE.",
+        "defaultTitle": "$PRODUKT - günstig bestellen",
+        "defaultMetaDescription": "$PRODUKT ist ein hochwertiges Produkt der Kategorie $KATEGORIE! Finden Sie bei uns weitere tolle Produkte von $HERSTELLER!",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Gartenwerkzeug für die perfekte Gartenarbeit",
-        "defaultMetaDescription": "Gartenwerkzeug für jeden Zweck: $KATEGORIE. Jetzt online bestellen und schnell geliefert bekommen.",
+        "defaultTitle": "$KATEGORIE - eine große Auswahl ",
+        "defaultMetaDescription": "Gartenwerkzeug für jeden Zweck: $KATEGORIE, sowie viele weitere Kategorien! Jetzt online bestellen und schnell geliefert bekommen.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Gartenwerkzeug. Wir bieten eine große Auswahl an hochwertigen Gartenwerkzeugen, die Ihnen dabei helfen, Ihren Garten in einen Ort der Schönheit zu verwandeln.",
+        "defaultTitle": "$HERSTELLER - Marktführer bei Gartenwerkzeug",
+        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller für Gartenwerkzeug | Breites Sortiment | Tolle Produkte | Günstig online bestellen.",
         "defaultRobots": "index, follow",
         "brands": [
             {
