@@ -2,7 +2,7 @@
     {
         "key": "gartenhandgeräte",
         "name": "Gartenhandgeräte",
-        "slug": "gartenhandgerate",
+        "slug": "gartenhandgeraete",
         "productCategory": "Gartenhandgeräte",
         "subCategories": []
     },
@@ -23,7 +23,7 @@
     {
         "key": "äxte & gartensägen",
         "name": "Äxte & Gartensägen",
-        "slug": "axte-gartensagen",
+        "slug": "aexte-gartensaegen",
         "productCategory": "Äxte & Gartensägen",
         "subCategories": []
     },
