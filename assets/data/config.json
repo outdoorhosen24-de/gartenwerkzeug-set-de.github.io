@@ -1,196 +1,199 @@
 {
-    "configIsReady": true,
-    "domain": "gartenwerkzeug-set.de",
-    "hostname": "https://www.gartenwerkzeug-set.de/",
-    "email": "gartenwerkzeug-set.de@surrealnetworks.io",
-    "organization": "gartenwerkzeug-set.de",
-    "logoText": "Gartenwerkzeug-set.de",
-    "title": "Gartenwerkzeug",
-    "subline": "Der Online Shop Gartenwerkzeug",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "6268643",
-        "9779950",
-        "2444859",
-        "9235664",
-        "9239047",
-        "1640143"
-    ],
-    "winnerProducts": [
-        "5910963",
-        "1014505",
-        "1406933"
-    ],
-    "featuredCategories": [
-        "Äxte & Gartensägen",
-        "Gartenhandgeräte",
-        "Streuwagen & Walzen",
-        "Gartenscheren & Baumscheren",
-        "Besen & Rechen",
-        "Besen & Rechen"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Gartenwerkzeug",
-        "featureText": "Willkommen in unserem Shop! Sie möchten ihre Gartenarbeit auf das nächste Level heben, es fehlt aber noch das ein oder andere Werkzeug? Dann sind Sie hier genau richtig! Wir bieten Ihnen ein breites Sortiment qualitativ hochwertiger Produkte. Für eine möglichst große Freude bei der Gartenarbeit setzen wir auf Markenprodukte wie z.B. Bosch, Fiskars, Gardena uvm. Zu finden sind unsere Produkte einfach über entsprechende Kategorien oder über eine Auflistung all unserer Hersteller. Überzeugen Sie sich von unserem umfangreichen Angebot.",
-        "index": {
-            "title": "Gartenwerkzeug - günstig online kaufen",
-            "metaDescription": "Riesige Auswahl hochwertiger Gartenwerkzeuge für jeden Anwendungsbereich: Besen & Rechen, Spaten & Schaufeln, Äxte & Sägen sowie viele weitere Gartenhandgeräte ",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Gartenwerkzeug-Set",
-                        "text": "Herzlich willkommen auf unserer Website Gartenwerkzeug-Set. Wir sind ein Online-Shop, der sich auf hochwertige Gartenwerkzeuge spezialisiert hat. Unser Sortiment umfasst eine breite Auswahl an Produkten, die für alle Bedürfnisse und Anforderungen geeignet sind.Von Gartenhandgeräten über Kombisysteme und Bodenbearbeitung bis hin zu Äxten und Gartensägen - bei uns finden Sie alles, was Sie für Ihren Garten benötigen. Auch Streuwagen und Walzen, Gartenscheren und Baumscheren, Spaten, Gabeln und Schaufeln sowie Besen und Rechen gehören zu unserem Angebot.Wir sind stolz darauf, Ihnen eine große Auswahl an hochwertigen Gartenwerkzeugen anbieten zu können. Unsere Produkte werden von erfahrenen Fachleuten geprüft und ausgewählt, um sicherzustellen, dass Sie die besten Werkzeuge erhalten, die auf dem Markt erhältlich sind.Wir verstehen, dass es schwierig sein kann, das richtige Werkzeug für Ihre Bedürfnisse zu finden, deshalb bieten wir Ihnen ausführliche Produktbeschreibungen und Bewertungen, damit Sie sicher sein können, dass Sie das richtige Werkzeug für Ihren Garten auswählen.Wir freuen uns, Ihnen bei Ihren Projekten im Garten zu helfen und sind immer bereit, Ihre Fragen zu beantworten. Besuchen Sie uns jetzt und entdecken Sie das perfekte Gartenwerkzeug-Set für Ihre Bedürfnisse. "
-                    },
-                    {
-                        "title": "Gartenhandgeräte",
-                        "text": "Unser Online-Shop bietet eine breite Auswahl an <a href=\"/kategorie/gartenhandgeraete/\" title=\"Gartenhandgeräte\">Gartenhandgeräte</a>n für alle Bedürfnisse. Von Schere und Säge bis hin zu Gartenscheren und Gartenhämmern haben wir alles, was Sie für Ihren Garten benötigen. Unsere hochwertigen Gartenhandgeräte sind langlebig und einfach zu verwenden, damit Sie Ihren Garten in Topform halten können. Stöbern Sie jetzt durch unsere Kategorie Gartenhandgeräte und finden Sie genau das, was Sie brauchen."
-                    },
-                    {
-                        "title": "Kombisysteme",
-                        "text": "Verwandeln Sie Ihren Garten in eine Oase mit unseren <a href=\"/kategorie/kombisysteme/\" title=\"Kombisysteme\">Kombisysteme</a>n. Wir bieten eine breite Auswahl an hochwertigen Kombisystemen, die alle Ihre Bedürfnisse erfüllen. Von Motorsensen und Freischneidern bis hin zu Laubbläsern und Heckenscheren haben wir alles, was Sie brauchen. Unsere Kombisysteme sind langlebig, einfach zu verwenden und bieten Ihnen eine hervorragende Leistung, damit Sie Ihren Garten in Topform halten können. Stöbern Sie jetzt durch unsere Kategorie Kombisysteme und finden Sie das perfekte System für Ihren Garten."
-                    },
-                    {
-                        "title": "Bodenbearbeitung",
-                        "text": "Ein gepflegter Garten beginnt mit einer guten <a href=\"/kategorie/bodenbearbeitung/\" title=\"Bodenbearbeitung\">Bodenbearbeitung</a>. Unser Online-Shop bietet eine breite Auswahl an Werkzeugen zur Bodenbearbeitung, damit Sie Ihren Garten in Topform halten können. Von Spaten und Schaufeln bis hin zu Harken und Rechen haben wir alles, was Sie brauchen. Unsere hochwertigen Werkzeuge zur Bodenbearbeitung sind langlebig und einfach zu verwenden, damit Sie Ihren Garten optimal pflegen können. Stöbern Sie jetzt durch unsere Kategorie Bodenbearbeitung und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Äxte & Gartensägen",
-                        "text": "Unser Online-Shop bietet eine breite Auswahl an Äxten und Gartensägen für alle Bedürfnisse. Von Handäxten bis hin zu Motorsägen haben wir alles, was Sie für Ihren Garten benötigen. Unsere hochwertigen Äxte und Gartensägen sind langlebig und einfach zu verwenden, damit Sie Ihren Garten in Topform halten können. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/aexte-gartensaegen/\" title=\"Äxte & Gartensägen\">Äxte & Gartensägen</a> und finden Sie genau das, was Sie brauchen."
-                    },
-                    {
-                        "title": "Streuwagen & Walzen",
-                        "text": "Erleichtern Sie sich die Arbeit im Garten mit unseren Streuwagen und Walzen. Wir bieten eine breite Auswahl an hochwertigen Streuwagen und Walzen, die alle Ihre Bedürfnisse erfüllen. Unsere Streuwagen und Walzen sind langlebig, einfach zu verwenden und bieten Ihnen eine hervorragende Leistung, damit Sie Ihren Garten einfach und bequem pflegen können. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/streuwagen-walzen/\" title=\"Streuwagen & Walzen\">Streuwagen & Walzen</a> und finden Sie das perfekte Werkzeug für Ihren Garten."
-                    },
-                    {
-                        "title": "Gartenscheren & Baumscheren",
-                        "text": "Pflegen Sie Ihre Bäume und Sträucher im Garten mit unseren Gartenscheren und Baumscheren. Unser Online-Shop bietet eine breite Auswahl an hochwertigen Gartenscheren und Baumscheren, die alle Ihre Bedürfnisse erfüllen. Von Handscheren bis hin zu Motorscheren haben wir alles, was Sie brauchen. Unsere Gartenscheren und Baumscheren sind langlebig und einfach zu verwenden, damit Sie Ihren Garten optimal pflegen können. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/gartenscheren-baumscheren/\" title=\"Gartenscheren & Baumscheren\">Gartenscheren & Baumscheren</a> und finden Sie das perfekte Werkzeug für Ihre Bedürfnisse."
-                    },
-                    {
-                        "title": "Spaten, Gabel & Schaufel",
-                        "text": "Unser Online-Shop bietet eine breite Auswahl an Spaten, Gabeln und Schaufeln für alle Bedürfnisse. Von Handspaten und -gabeln bis hin zu Teleskop-Schaufeln haben wir alles, was Sie für Ihren Garten benötigen. Unsere hochwertigen Spaten, Gabeln und Schaufeln sind langlebig und einfach zu verwenden, damit Sie Ihren Garten in Topform halten können. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/spaten-gabel-schaufel/\" title=\"Spaten, Gabel & Schaufel\">Spaten, Gabel & Schaufel</a> und finden Sie genau das, was Sie brauchen."
-                    },
-                    {
-                        "title": "Besen & Rechen",
-                        "text": "Halten Sie Ihren Garten sauber und ordentlich mit unseren Besen und Rechen. Wir bieten eine breite Auswahl an hochwertigen Besen und Rechen, die alle Ihre Bedürfnisse erfüllen. Von Handbesen und -rechen bis hin zu elektrischen Laubbläsern haben wir alles, was Sie brauchen. Unsere Besen und Rechen sind langlebig, einfach zu verwenden und bieten Ihnen eine hervorragende Leistung, damit Sie Ihren Garten einfach und bequem pflegen können. Stöbern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/besen-rechen/\" title=\"Besen & Rechen\">Besen & Rechen</a> und finden Sie das perfekte Werkzeug für Ihren Garten."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Online Shop für Gartenwerkzeug ",
-            "metaDescription": "Kaufen Sie Gartenwerkzeug von Gardena, Einhell, Fiskars und Co. | Einfach online bestellen | Faire Preise & schnelle Lieferung.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Gartenwerkzeug von bekannten Herstellern ",
-            "metaDescription": "Kaufen Sie Gartenwerkzeug von Herstellern wie: Gardena, Fiskars, Einhell, Felco, Lux, Bosch uvm. | Überzeugen Sie sich von unserem umfangreichen Sortiment!",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT - günstig bestellen",
-        "defaultMetaDescription": "$PRODUKT ist ein hochwertiges Produkt der Kategorie $KATEGORIE! Finden Sie bei uns weitere tolle Produkte von $HERSTELLER!",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "gartenwerkzeug-set.de",
+  "hostname": "https://www.gartenwerkzeug-set.de/",
+  "email": "gartenwerkzeug-set.de@surrealnetworks.io",
+  "organization": "gartenwerkzeug-set.de",
+  "logoText": "Gartenwerkzeug-set.de",
+  "title": "Gartenwerkzeug",
+  "subline": "Der Online Shop Gartenwerkzeug",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "6268643",
+    "9779950",
+    "2444859",
+    "9235664",
+    "9239047",
+    "1640143"
+  ],
+  "winnerProducts": [
+    "5910963",
+    "1014505",
+    "1406933"
+  ],
+  "featuredCategories": [
+    "\u00c4xte & Gartens\u00e4gen",
+    "Gartenhandger\u00e4te",
+    "Streuwagen & Walzen",
+    "Gartenscheren & Baumscheren",
+    "Besen & Rechen",
+    "Besen & Rechen"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Gartenwerkzeug",
+    "featureText": "Willkommen in unserem Shop! Sie m\u00f6chten ihre Gartenarbeit auf das n\u00e4chste Level heben, es fehlt aber noch das ein oder andere Werkzeug? Dann sind Sie hier genau richtig! Wir bieten Ihnen ein breites Sortiment qualitativ hochwertiger Produkte. F\u00fcr eine m\u00f6glichst gro\u00dfe Freude bei der Gartenarbeit setzen wir auf Markenprodukte wie z.B. Bosch, Fiskars, Gardena uvm. Zu finden sind unsere Produkte einfach \u00fcber entsprechende Kategorien oder \u00fcber eine Auflistung all unserer Hersteller. \u00dcberzeugen Sie sich von unserem umfangreichen Angebot.",
+    "index": {
+      "title": "Gartenwerkzeug - g\u00fcnstig online kaufen",
+      "metaDescription": "Riesige Auswahl hochwertiger Gartenwerkzeuge f\u00fcr jeden Anwendungsbereich: Besen & Rechen, Spaten & Schaufeln, \u00c4xte & S\u00e4gen sowie viele weitere Gartenhandger\u00e4te ",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Gartenwerkzeug-Set",
+            "text": "Herzlich willkommen auf unserer Website Gartenwerkzeug-Set. Wir sind ein Online-Shop, der sich auf hochwertige Gartenwerkzeuge spezialisiert hat. Unser Sortiment umfasst eine breite Auswahl an Produkten, die f\u00fcr alle Bed\u00fcrfnisse und Anforderungen geeignet sind.Von Gartenhandger\u00e4ten \u00fcber Kombisysteme und Bodenbearbeitung bis hin zu \u00c4xten und Gartens\u00e4gen - bei uns finden Sie alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Auch Streuwagen und Walzen, Gartenscheren und Baumscheren, Spaten, Gabeln und Schaufeln sowie Besen und Rechen geh\u00f6ren zu unserem Angebot.Wir sind stolz darauf, Ihnen eine gro\u00dfe Auswahl an hochwertigen Gartenwerkzeugen anbieten zu k\u00f6nnen. Unsere Produkte werden von erfahrenen Fachleuten gepr\u00fcft und ausgew\u00e4hlt, um sicherzustellen, dass Sie die besten Werkzeuge erhalten, die auf dem Markt erh\u00e4ltlich sind.Wir verstehen, dass es schwierig sein kann, das richtige Werkzeug f\u00fcr Ihre Bed\u00fcrfnisse zu finden, deshalb bieten wir Ihnen ausf\u00fchrliche Produktbeschreibungen und Bewertungen, damit Sie sicher sein k\u00f6nnen, dass Sie das richtige Werkzeug f\u00fcr Ihren Garten ausw\u00e4hlen.Wir freuen uns, Ihnen bei Ihren Projekten im Garten zu helfen und sind immer bereit, Ihre Fragen zu beantworten. Besuchen Sie uns jetzt und entdecken Sie das perfekte Gartenwerkzeug-Set f\u00fcr Ihre Bed\u00fcrfnisse. "
+          },
+          {
+            "title": "Gartenhandger\u00e4te",
+            "text": "Unser Online-Shop bietet eine breite Auswahl an <a href=\"/kategorie/gartenhandgeraete/\" title=\"Gartenhandger\u00e4te\">Gartenhandger\u00e4te</a>n f\u00fcr alle Bed\u00fcrfnisse. Von Schere und S\u00e4ge bis hin zu Gartenscheren und Gartenh\u00e4mmern haben wir alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Unsere hochwertigen Gartenhandger\u00e4te sind langlebig und einfach zu verwenden, damit Sie Ihren Garten in Topform halten k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie Gartenhandger\u00e4te und finden Sie genau das, was Sie brauchen."
+          },
+          {
+            "title": "Kombisysteme",
+            "text": "Verwandeln Sie Ihren Garten in eine Oase mit unseren <a href=\"/kategorie/kombisysteme/\" title=\"Kombisysteme\">Kombisysteme</a>n. Wir bieten eine breite Auswahl an hochwertigen Kombisystemen, die alle Ihre Bed\u00fcrfnisse erf\u00fcllen. Von Motorsensen und Freischneidern bis hin zu Laubbl\u00e4sern und Heckenscheren haben wir alles, was Sie brauchen. Unsere Kombisysteme sind langlebig, einfach zu verwenden und bieten Ihnen eine hervorragende Leistung, damit Sie Ihren Garten in Topform halten k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie Kombisysteme und finden Sie das perfekte System f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Bodenbearbeitung",
+            "text": "Ein gepflegter Garten beginnt mit einer guten <a href=\"/kategorie/bodenbearbeitung/\" title=\"Bodenbearbeitung\">Bodenbearbeitung</a>. Unser Online-Shop bietet eine breite Auswahl an Werkzeugen zur Bodenbearbeitung, damit Sie Ihren Garten in Topform halten k\u00f6nnen. Von Spaten und Schaufeln bis hin zu Harken und Rechen haben wir alles, was Sie brauchen. Unsere hochwertigen Werkzeuge zur Bodenbearbeitung sind langlebig und einfach zu verwenden, damit Sie Ihren Garten optimal pflegen k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie Bodenbearbeitung und finden Sie das perfekte Werkzeug f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "\u00c4xte & Gartens\u00e4gen",
+            "text": "Unser Online-Shop bietet eine breite Auswahl an \u00c4xten und Gartens\u00e4gen f\u00fcr alle Bed\u00fcrfnisse. Von Hand\u00e4xten bis hin zu Motors\u00e4gen haben wir alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Unsere hochwertigen \u00c4xte und Gartens\u00e4gen sind langlebig und einfach zu verwenden, damit Sie Ihren Garten in Topform halten k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/aexte-gartensaegen/\" title=\"\u00c4xte & Gartens\u00e4gen\">\u00c4xte & Gartens\u00e4gen</a> und finden Sie genau das, was Sie brauchen."
+          },
+          {
+            "title": "Streuwagen & Walzen",
+            "text": "Erleichtern Sie sich die Arbeit im Garten mit unseren Streuwagen und Walzen. Wir bieten eine breite Auswahl an hochwertigen Streuwagen und Walzen, die alle Ihre Bed\u00fcrfnisse erf\u00fcllen. Unsere Streuwagen und Walzen sind langlebig, einfach zu verwenden und bieten Ihnen eine hervorragende Leistung, damit Sie Ihren Garten einfach und bequem pflegen k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/streuwagen-walzen/\" title=\"Streuwagen & Walzen\">Streuwagen & Walzen</a> und finden Sie das perfekte Werkzeug f\u00fcr Ihren Garten."
+          },
+          {
+            "title": "Gartenscheren & Baumscheren",
+            "text": "Pflegen Sie Ihre B\u00e4ume und Str\u00e4ucher im Garten mit unseren Gartenscheren und Baumscheren. Unser Online-Shop bietet eine breite Auswahl an hochwertigen Gartenscheren und Baumscheren, die alle Ihre Bed\u00fcrfnisse erf\u00fcllen. Von Handscheren bis hin zu Motorscheren haben wir alles, was Sie brauchen. Unsere Gartenscheren und Baumscheren sind langlebig und einfach zu verwenden, damit Sie Ihren Garten optimal pflegen k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/gartenscheren-baumscheren/\" title=\"Gartenscheren & Baumscheren\">Gartenscheren & Baumscheren</a> und finden Sie das perfekte Werkzeug f\u00fcr Ihre Bed\u00fcrfnisse."
+          },
+          {
+            "title": "Spaten, Gabel & Schaufel",
+            "text": "Unser Online-Shop bietet eine breite Auswahl an Spaten, Gabeln und Schaufeln f\u00fcr alle Bed\u00fcrfnisse. Von Handspaten und -gabeln bis hin zu Teleskop-Schaufeln haben wir alles, was Sie f\u00fcr Ihren Garten ben\u00f6tigen. Unsere hochwertigen Spaten, Gabeln und Schaufeln sind langlebig und einfach zu verwenden, damit Sie Ihren Garten in Topform halten k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/spaten-gabel-schaufel/\" title=\"Spaten, Gabel & Schaufel\">Spaten, Gabel & Schaufel</a> und finden Sie genau das, was Sie brauchen."
+          },
+          {
+            "title": "Besen & Rechen",
+            "text": "Halten Sie Ihren Garten sauber und ordentlich mit unseren Besen und Rechen. Wir bieten eine breite Auswahl an hochwertigen Besen und Rechen, die alle Ihre Bed\u00fcrfnisse erf\u00fcllen. Von Handbesen und -rechen bis hin zu elektrischen Laubbl\u00e4sern haben wir alles, was Sie brauchen. Unsere Besen und Rechen sind langlebig, einfach zu verwenden und bieten Ihnen eine hervorragende Leistung, damit Sie Ihren Garten einfach und bequem pflegen k\u00f6nnen. St\u00f6bern Sie jetzt durch unsere Kategorie <a href=\"/kategorie/besen-rechen/\" title=\"Besen & Rechen\">Besen & Rechen</a> und finden Sie das perfekte Werkzeug f\u00fcr Ihren Garten."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE - eine große Auswahl ",
-        "defaultMetaDescription": "Gartenwerkzeug für jeden Zweck: $KATEGORIE, sowie viele weitere Kategorien! Jetzt online bestellen und schnell geliefert bekommen.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Online Shop f\u00fcr Gartenwerkzeug ",
+      "metaDescription": "Kaufen Sie Gartenwerkzeug von Gardena, Einhell, Fiskars und Co. | Einfach online bestellen | Faire Preise & schnelle Lieferung.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "$HERSTELLER - Marktführer bei Gartenwerkzeug",
-        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller für Gartenwerkzeug | Breites Sortiment | Tolle Produkte | Günstig online bestellen.",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Gartenwerkzeug",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Gartenwerkzeug Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Gartenwerkzeug Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Gartenwerkzeug von bekannten Herstellern ",
+      "metaDescription": "Kaufen Sie Gartenwerkzeug von Herstellern wie: Gardena, Fiskars, Einhell, Felco, Lux, Bosch uvm. | \u00dcberzeugen Sie sich von unserem umfangreichen Sortiment!",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT - g\u00fcnstig bestellen",
+    "defaultMetaDescription": "$PRODUKT ist ein hochwertiges Produkt der Kategorie $KATEGORIE! Finden Sie bei uns weitere tolle Produkte von $HERSTELLER!",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE - eine gro\u00dfe Auswahl ",
+    "defaultMetaDescription": "Gartenwerkzeug f\u00fcr jeden Zweck: $KATEGORIE, sowie viele weitere Kategorien! Jetzt online bestellen und schnell geliefert bekommen.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "$HERSTELLER - Marktf\u00fchrer bei Gartenwerkzeug",
+    "defaultMetaDescription": "$HERSTELLER ist f\u00fchrender Hersteller f\u00fcr Gartenwerkzeug | Breites Sortiment | Tolle Produkte | G\u00fcnstig online bestellen.",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Gartenwerkzeug",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Gartenwerkzeug Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Gartenwerkzeug Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
